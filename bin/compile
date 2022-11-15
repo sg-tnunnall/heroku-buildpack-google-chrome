@@ -69,6 +69,7 @@ case "${STACK}" in
       libatk1.0-0
       libatk-bridge2.0-0
       libcairo-gobject2
+      libdbus-1-3
       libdrm2
       libgbm1
       libgconf-2-4
